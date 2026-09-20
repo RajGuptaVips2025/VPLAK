@@ -121,3 +121,4 @@ export default function InvoiceModal({ order, onClose }) {
     </div>
   );
 }
+

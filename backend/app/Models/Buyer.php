@@ -22,3 +22,4 @@ class Buyer extends Model
         return $this->hasMany(Order::class);
     }
 }
+

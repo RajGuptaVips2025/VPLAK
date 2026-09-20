@@ -106,3 +106,4 @@ export default function OrderCard({ order, onTrack, onGenerateInvoice }) {
     </div>
   );
 }
+

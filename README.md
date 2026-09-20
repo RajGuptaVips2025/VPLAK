@@ -150,3 +150,4 @@ Once built, access the complete unified app directly at:
    - `APP_KEY`: *(Generated via `php artisan key:generate --show`)*
    - `APP_ENV`: `production`
    - `DB_CONNECTION`: `sqlite` (or configure MySQL)
+
